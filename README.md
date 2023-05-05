@@ -1,4 +1,4 @@
-# Hacker-Statistics-use-case
+# Data-Camo-Data-Science-track-Hacker-Statistics-use-case
 Hacker Statistics is an interesting application that exemplifies how random simulations can be utilized to determine the probability of achieving a specific outcome. The scenario entails a random walk, where a dice is rolled 100 times, and the results dictate whether the player moves forward or backward. The question that arises is, what is the likelihood of reaching a certain level, such as 60 steps high?
 
 To tackle this question, the simulation is performed numerous times, resulting in an array of final steps. This data is then employed to generate a distribution of final steps, enabling the calculation of probabilities.
