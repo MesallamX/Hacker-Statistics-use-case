@@ -89,9 +89,7 @@ for x in range(100) :
         step = max(0, step - 1)
     elif dice <= 5:
         step = step + 1
-    Else:
-
-
+    else:
         step = step + np.random.randint(1,7)
 
     random_walk.append(step)
